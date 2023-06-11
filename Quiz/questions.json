@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["Paris", "London", "Berlin", "Madrid"],
+    "correct_answer": 0
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Pablo Picasso", "Vincent van Gogh", "Michelangelo", "Leonardo da Vinci"],
+    "correct_answer": 3
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Venus", "Mars", "Jupiter", "Mercury"],
+    "correct_answer": 1
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "options": ["Heart", "Liver", "Skin", "Brain"],
+    "correct_answer": 2
+  }
+]
